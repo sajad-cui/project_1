@@ -69,7 +69,7 @@
       <workItem from="1684849086119" duration="2623000" />
       <workItem from="1684914617858" duration="11388000" />
       <workItem from="1684927345072" duration="3523000" />
-      <workItem from="1684935988900" duration="659000" />
+      <workItem from="1684935988900" duration="986000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1681002076947</created>
@@ -276,30 +276,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Create FactoresController Class" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
-          <line>256</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
-          <line>227</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
-          <line>198</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="productsList" />
