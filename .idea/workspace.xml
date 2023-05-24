@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df3d0673-671a-41bc-9342-475b18b65754" name="Changes" comment="Create FactoresController Class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contoroller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contoroller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OASinXr6mn1GAkMc1ysKtc0HXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DigiProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3d0673-671a-41bc-9342-475b18b65754" name="Changes" comment="" />
+      <created>1681002025190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681002025190</updated>
+      <workItem from="1681002026559" duration="2007000" />
+      <workItem from="1681004329860" duration="1223000" />
+      <workItem from="1681008005029" duration="105000" />
+      <workItem from="1681113938989" duration="599000" />
+      <workItem from="1681117823751" duration="41000" />
+      <workItem from="1681246746306" duration="56000" />
+      <workItem from="1681849570420" duration="35000" />
+      <workItem from="1684665748361" duration="851000" />
+      <workItem from="1684668031648" duration="462000" />
+      <workItem from="1684849086119" duration="2623000" />
+      <workItem from="1684914617858" duration="11388000" />
+      <workItem from="1684927345072" duration="3523000" />
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1681002076947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681002076947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Products Class">
+      <created>1681003035025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003035026</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Vehicles Class">
+      <created>1681003074124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003074124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Bikes Class">
+      <created>1681003102926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003102926</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Cars Class">
+      <created>1681003117319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003117319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create Stationery Class">
+      <created>1681003153746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003153746</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create Pen Class">
+      <created>1681003205767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003205767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create Pencells Class">
+      <created>1681003225893</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003225894</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create Buyer Class">
+      <created>1681003269573</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003269573</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create DigitalGoods Class">
+      <created>1681003321815</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003321815</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create SSD Class">
+      <created>1681003360498</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003360498</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create Computer Class">
+      <created>1681003394765</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003394766</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create Score Class">
+      <created>1681003480266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003480266</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Create Comment Class">
+      <created>1681003501981</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681003501981</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Create SignUpController Class">
+      <created>1681004797173</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681004797173</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Create LogInController Class">
+      <created>1681004869925</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681004869925</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Create ProductsController Class">
+      <created>1681005126479</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681005126479</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Create ProductsView Class">
+      <created>1681005461280</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681005461280</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create FactoresController Class">
+      <created>1681005512182</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681005512182</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create FactoresController Class">
+      <created>1681005524169</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681005524169</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Create FactoresController Class">
+      <created>1684923357508</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684923357508</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Pencell Class" />
+    <MESSAGE value="Create Pencells Class" />
+    <MESSAGE value="Create User Class" />
+    <MESSAGE value="Create Buyer Class" />
+    <MESSAGE value="Create Edible Class" />
+    <MESSAGE value="Create DigitalGoods Class" />
+    <MESSAGE value="Create StorageTools Class" />
+    <MESSAGE value="Create SSD Class" />
+    <MESSAGE value="Create Memory Class" />
+    <MESSAGE value="Create Computer Class" />
+    <MESSAGE value="Create Factore Class" />
+    <MESSAGE value="Create Score Class" />
+    <MESSAGE value="Create Comment Class" />
+    <MESSAGE value="Create Admin Class" />
+    <MESSAGE value="Create Controller Class for start the program-logIn signUp ,...." />
+    <MESSAGE value="Create SignUpController Class" />
+    <MESSAGE value="Create SignUp Class for sinUpView" />
+    <MESSAGE value="Create LogInController Class" />
+    <MESSAGE value="Create LogIn Class for LogInView" />
+    <MESSAGE value="Create ProductsController Class" />
+    <MESSAGE value="Create BuyerController Class" />
+    <MESSAGE value="Create UserPage Class" />
+    <MESSAGE value="Create ProductsView Class" />
+    <MESSAGE value="Create CommentController Class" />
+    <MESSAGE value="Create FactoresController Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create FactoresController Class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
+          <line>227</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/AdminView.java</url>
+          <line>198</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="productsList" />
+        <watch expression="((Memory)product).price" custom="Model.category.Memory" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
