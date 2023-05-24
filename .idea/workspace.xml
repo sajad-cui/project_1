@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df3d0673-671a-41bc-9342-475b18b65754" name="Changes" comment="Create FactoresController Class">
-      <change afterPath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" afterDir="false" />
-    </list>
+    <list default="true" id="df3d0673-671a-41bc-9342-475b18b65754" name="Changes" comment="Create FactoresController Class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <workItem from="1684849086119" duration="2623000" />
       <workItem from="1684914617858" duration="11388000" />
       <workItem from="1684927345072" duration="3523000" />
-      <workItem from="1684935988900" duration="333000" />
+      <workItem from="1684935988900" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1681002076947</created>
