@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df3d0673-671a-41bc-9342-475b18b65754" name="Changes" comment="Create FactoresController Class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contoroller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contoroller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contoroller/ProductsController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
       <workItem from="1684849086119" duration="2623000" />
       <workItem from="1684914617858" duration="11388000" />
       <workItem from="1684927345072" duration="3523000" />
+      <workItem from="1684935988900" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1681002076947</created>
